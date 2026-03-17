@@ -15,6 +15,9 @@ and lessons learned along the way.
 - Proxmox VE
 - LXCs
 
+## Posts
+1. [Choosing a hypervisor](docs/en/01-choosing-hypervisor.md)
+
 # [pt] Meu Homelab
 Este repositório documenta a configuração e evolução do meu homelab.
 
@@ -30,3 +33,6 @@ O objetivo é manter anotações sobre as decisões arquiteturais, serviços que
 ## Software
 - Proxmox VE
 - LXCs
+
+## Posts
+1. [Escolhendo um hypervisor](docs/pt/01-escolhendo-hypervisor.md)
