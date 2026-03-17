@@ -17,6 +17,7 @@ and lessons learned along the way.
 
 ## Posts
 1. [Choosing a hypervisor](docs/en/01-choosing-hypervisor.md)
+2. [Setting up Proxmox](docs/en/02-setting-up-proxmox.md)
 
 # [pt] Meu Homelab
 Este repositório documenta a configuração e evolução do meu homelab.
@@ -36,3 +37,4 @@ O objetivo é manter anotações sobre as decisões arquiteturais, serviços que
 
 ## Posts
 1. [Escolhendo um hypervisor](docs/pt/01-escolhendo-hypervisor.md)
+2. [Configurando o Proxmox](docs/pt/02-configurando-proxmox.md)
